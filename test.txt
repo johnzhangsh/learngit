@@ -1,5 +1,6 @@
 git is a free software.
 this is a new line.
+A new update
 second change
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
